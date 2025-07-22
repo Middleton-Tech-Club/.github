@@ -1,6 +1,6 @@
 ![Logo](https://github.com/Middleton-Tech-Club/.github/blob/1fbac7c23dd3d880bb47f6b9aac405b9922ffa3e/Logo.png)
 # Middleton Tech Club
-A Programing Club At The Middleton Public Libbary Ran By @HenryNerd
+A Programing Club At The Middleton Public Libbary Ran By [@HenryNerd](https://github.com/HenryNerd)
 
 ## Lesson 1: Into to Python
 ### A Lesson in basic Python
